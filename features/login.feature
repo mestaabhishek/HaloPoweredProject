@@ -20,4 +20,3 @@ Scenario Outline: Verify with invalid user credentials
       | null                      | Please enter valid Email ID/Mobile number |
       | testing@gm23              | Please enter valid Email ID/Mobile number |
 
-

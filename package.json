@@ -14,5 +14,6 @@
     "wdio-mochawesome-reporter": "^7.0.0",
     "wdio-reportportal-reporter": "^7.6.0",
     "wdio-wait-for": "^3.1.0"
+    
   }
 }

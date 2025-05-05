@@ -27,5 +27,6 @@
         "test",
         "wdio.conf.ts",
         "features"
+        
     ]
 }

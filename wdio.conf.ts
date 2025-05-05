@@ -29,7 +29,7 @@ export const config: WebdriverIO.Config = {
     exclude: [
         // 'path/to/excluded/files'
     ],
-    //
+    
     // ============
     // Capabilities
     // ============
